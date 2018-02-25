@@ -1,0 +1,12 @@
+1) mkdir for making new directory
+2) touch to create a new file
+3) ls to check if the file is created and which files exist
+4) create a second file
+5) add content to the file
+6) git add . to save changes
+7) git commit -m "" to commit to git
+8) git init to initalize 
+9) copy the link from Github (remote...)
+10) copy push link to upload it to Github
+11) make changes on local repository
+12) git add - commit -m"" push again
